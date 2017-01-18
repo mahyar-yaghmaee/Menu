@@ -90,3 +90,6 @@ ENV/
 
 #pycharm
 .idea/
+
+#admin
+mysite/mysite/settings.py.original
